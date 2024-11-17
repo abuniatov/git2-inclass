@@ -1,5 +1,5 @@
-1. Bananas
-2. Oranges
+1. Oranges
+2. Bananas
 3. Strawberries
 4. Lemons
 5. Pineapples
